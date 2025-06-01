@@ -8,5 +8,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="boxicons" level="application" />
+    <orderEntry type="library" name="line" level="application" />
+    <orderEntry type="library" name="swiper" level="application" />
+    <orderEntry type="library" name="mixitup" level="application" />
   </component>
 </module>
